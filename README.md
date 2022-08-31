@@ -1,1 +1,1 @@
-This repo is a simple warehouse location model example implementation in Jupyter Notebook implementation of using JetBrains DataSpell IDE for Data Scientists.
+This repo is a simple warehouse location model example implemented in Jupyter Notebook and Python module files using JetBrains' DataSpell IDE for Data Scientists.
